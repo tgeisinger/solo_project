@@ -1,0 +1,28 @@
+.t{
+display: none;
+}
+
+
+
+#one, #two, #three, #four, #five {
+  padding-top: 20px;
+
+}
+
+
+#a, #b, #c, #d, #e, #f, #g, #h, #i, #j{
+  font-size: 30px;
+}
+
+input{
+  width: 50px;
+  height:50px;
+}
+
+
+
+#display{
+  background-image: url("../styles/images/1c2d8ed5-d79e-4485-803b-1bfd0bfb6f0c.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
